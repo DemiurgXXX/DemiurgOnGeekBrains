@@ -137,3 +137,5 @@ for elem in ProductList:
 ResultDict = {'название': list(set(NameList)), 'цена': list(set(PriceList)), 'количество': list(set(CountList)), 'eд': list(set(UnitList))}
 
 print(ResultDict)
+
+# https://github.com/DemiurgXXX/DemiurgOnGeekBrains/pull/2
