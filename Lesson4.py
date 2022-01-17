@@ -69,7 +69,7 @@ for elem in new_list:
 
 from functools import reduce
 
-print(reduce(lambda first_var, second_var: first_var * second_var, (i for i in range(100, 1001))))
+print(reduce(lambda first_var, second_var: first_var * second_var, (i for i in range(100, 1001, 2))))
 
 # 6. Реализовать два небольших скрипта:
 # итератор, генерирующий целые числа, начиная с указанного;
