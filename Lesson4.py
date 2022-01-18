@@ -134,3 +134,4 @@ end_number = int(input('Введите целое положительное ч�
 for el in fact(end_number):
     print(el)
 
+# https://github.com/DemiurgXXX/DemiurgOnGeekBrains/pull/4
