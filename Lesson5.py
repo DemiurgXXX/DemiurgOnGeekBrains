@@ -179,3 +179,4 @@ final_list = [firm_dict, {'average_profit': average_profit}]
 with open('json5_7.json', 'w', encoding='utf-8') as fw:            # сериализация
     dump(final_list, fw)
 
+#https://github.com/DemiurgXXX/DemiurgOnGeekBrains/pull/5
